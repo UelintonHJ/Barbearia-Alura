@@ -8,7 +8,7 @@ aprendendo a estruturar páginas, aplicar estilos e organizar um site completo c
 
 ---
 
-![Prévia do projeto](
+![Prévia do projeto](/images/Vídeo-sem-título-‐-Feito-com-o-Clipchamp-_1_.gif)
 
 ---
 
