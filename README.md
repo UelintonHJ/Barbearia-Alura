@@ -8,10 +8,6 @@ aprendendo a estruturar páginas, aplicar estilos e organizar um site completo c
 
 ---
 
-![Prévia do projeto](/images/Vídeo-sem-título-‐-Feito-com-o-Clipchamp-_1_.gif)
-
----
-
 ## 🧾   Funcionalidades do site
 
 - **Home**: apresentação da barbebaria, missão, localização via Google Maps e benefícios.
