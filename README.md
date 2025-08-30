@@ -35,5 +35,11 @@ Durante o desenvolvimento deste projeto aprendi:
 
 ---
 
+## 📜 Certificados
+
+![HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/user/uelinton-h/course/html5-css3-primeiros-passos/certificate)
+
+---
+
 ## 📄 Licença
 Este projeto foi desenvolvido com fins de estudo e prática.
