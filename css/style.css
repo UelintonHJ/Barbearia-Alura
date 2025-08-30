@@ -37,6 +37,11 @@ nav a:hover {
 	text-decoration: underline;
 }
 
+main ul {
+	display: flex;
+	justify-content: center;
+}
+
 .products {
 	width: 940px;
 	margin: 0 auto;
@@ -64,7 +69,7 @@ nav a:hover {
 }
 
 .products li:hover h2{
-	font-size: 34px;
+	font-size: 31px;
 }
 
 .products h2 {
@@ -94,9 +99,11 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
+main form{
 	display:flex;
-	justify-content: center;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-left: 25%;
 }
 
 form {
@@ -105,6 +112,7 @@ form {
 	
 form label, form legend {
 	display: block;
+	align-items: flex-start;
 	font-size: 20px;
 	margin: 0 0 10px;
 }
@@ -135,7 +143,7 @@ form label, form legend {
 .toSend:hover {
 	background: darkorange;
 	cursor: pointer;
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
 
 table {
