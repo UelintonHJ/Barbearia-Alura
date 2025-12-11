@@ -1,7 +1,7 @@
 # 💈 [**Barbearia Alura**](https://barbearia-alura-gamma-sooty.vercel.app/index.html)
 
 Projeto desenvolvido como prática dos estudos de **HTML5** e **CSS3** no curso da [Alura](https://www.alura.com.br/). 
-O objetivo foi criar um site simples e responsivo para uma barbearia fictícia.
+O objetivo foi criar um site simples para uma barbearia fictícia.
 
 🚀 Foi meu **primeiro projeto**, onde tive meu primeiro contato com desenvolvimento web, 
 aprendendo a estruturar páginas, aplicar estilos e organizar um site completo com várias seções. 
@@ -31,7 +31,6 @@ Durante o desenvolvimento deste projeto aprendi:
 - Usar listas, tabelas e formulários
 - Aplicar pseudoclasses (':hover', ':active', ':first-child')
 - Inserir mapas e vídeos embutidos
-- Trabalhar responsividade com **media queries**
 
 ---
 
